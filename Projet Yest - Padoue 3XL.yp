@@ -2,7 +2,23 @@
 <yest:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:yest="http://www.smartesting.com/yest/metamodel" name="Projet Yest - Padoue 3XL" id="8VTVfInILyHsYhlcgcfXVMDMW2Vf8Sku">
   <metadata key="ProjectVersion" value="12"/>
   <metadata key="ApplicationVersion" value="3.4.1"/>
-  <subFolders name="Projet YEST - Padoue 3XL" id="LNHuyX7Z9G48BWeyICvcxPJy76c8kreP"/>
+  <subFolders name="01. Interfaces" id="S0uaefGW28HkADFWjKKVjVz3SZvyr71b">
+    <subFolders name="INT03 - master data" id="0hfsLTFTIETjMRyor7OHWie17UgQh3m8"/>
+    <subFolders name="INT08 - master data" id="pe58d2KjoM056xAGp37uFPpA3slmAdld"/>
+    <subFolders name="INT12 - master data" id="fZaJKvwTb7ZEd3doonAz2bop8SzwIjcC"/>
+    <subFolders name="INT14 - order reception" id="gFRFAXvaj0Y5ORUTmhWgvLFvHND5g6WA"/>
+    <subFolders name="INT16 - order order preparation" id="pZzvpFnpqpBojaqV5DcqGBi1IGdRzaIg"/>
+    <subFolders name="INT32 - ASN" id="ljRSVUE4ccEhJavXMgkXLi8udaYWGIG1"/>
+    <subFolders name="INT52 - returns preparation" id="IUh2Ldltp1SPG0QR4IugVcox3DZ1IiLm"/>
+    <subFolders name="INT52 - returns reception" id="APcNNywhbaydnaLvWcb8kvDZsDHG6yVU"/>
+    <subFolders name="INT62 - stock changes" id="peaUCoYWZdcINinAfeeqwYnRhn31Gkqe"/>
+  </subFolders>
+  <subFolders name="02. E2E test" id="xs4XlSDuOmE3aMxyTF5XBtGnm8AqjpPQ">
+    <subFolders name="E2E - Master data" id="biqrvao1WuJKUGtKgv4yial5ZYGGmows"/>
+    <subFolders name="E2E - WH reception" id="qeJaezu8eua1eBVLQAQVqdvBF0B1hT3L"/>
+    <subFolders name="E2E - Order preparation" id="Eo6aEjganEOBR5Ovvrq6UjU5V0VhcBLM"/>
+    <subFolders name="E2E - Stock adjustements" id="FVwbWqii6OOtIijp9FNm28otrcLVVuCP"/>
+  </subFolders>
   <designDataDictionary id="VvnsxwcpMm8ZjIg9a3trqoYLTcisapV4" name="#designDataDictionary"/>
   <implementationDataDictionary id="pCODuiHjePYbiMfD6JHEQppnvXBM2hsH" name="#implementationDataDictionary"/>
   <dataSetCatalog name="#catalog" id="MIJKLiC0gnMGmOZv1JHFfdRSi9oE979P"/>
